@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/saramarin23/express-workshop#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0"
   }
 }
